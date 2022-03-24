@@ -22,9 +22,9 @@ Note that, the current project has only been tested on Visual Studio 2017. More 
 - [x] release the module for point cloud registration 
 - [x] release the module for bundle adjustment 
 - [x] release the sample program "test_alignment" 
-- [] release the test dataset
-- [] rewrite registration part for better performance
-- [] release the documentation
+- [ ] release the test dataset
+- [ ] rewrite registration part for better performance
+- [ ] release the documentation
 
 ## Reference
 ```
